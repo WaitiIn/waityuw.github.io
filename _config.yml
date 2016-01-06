@@ -68,7 +68,6 @@ theme: landscape
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: git 
-  repository:https://github.com/WaitiIn/waityuw.github.io.git  
-  branch:master
-  plugins:-hexo-generator-feed
+  type: git
+  repository: https://github.com/WaitiIn/waityuw.github.io.git
+  branch: master
